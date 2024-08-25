@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img srt = "https://github.com/PavelVNazarov/PavelVNazarov/blob/main/hello-hi.gif" alt="The unlimited" width="600"> 
+<img srt = "https://github.com/PavelVNazarov/PavelVNazarov/blob/main/hello-hi.gif" alt="The unlimited" width="400"> 
